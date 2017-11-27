@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+.container-style {
+  margin-top: 20px;
+  padding-bottom: 30px;
+}
+
+.footer-container {
+  margin-bottom: 20px;
+}
+
+.form-style {
+  margin-top: 0px;
+}
+
+.label-style {
+  margin-top: 0px;
+}
+
+#name,
+#imgLink {
+  margin-bottom: 30px;
+}
+
+#question1,
+#question2,
+#question3,
+#question4,
+#question5,
+#question6,
+#question7,
+#question8,
+#question9,
+#question10 {
+  margin-bottom: 10px;
+}
+
+.modal-img {
+  height: 200px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  display: block;
+}
+
+.memory-txt {
+  margin-top: 20px;
+}
