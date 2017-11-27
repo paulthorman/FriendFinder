@@ -6,4 +6,4 @@ Compatibility-based "FriendFinder" application, using Express JS to handle routi
 
 Deployed to Heroku: https://paulsfriendfinder.herokuapp.com/.
 
-Paul Thorman (C) © 2017. All Rights Reserved.
+Paul Thorman © 2017. All Rights Reserved.
