@@ -1,8 +1,8 @@
 // Initial friend data
 var friends = [
     {
-        "name": "Donald Trump",
-        "photo": "http://a.abcnews.com/images/Politics/GTY_donald_trump_ml_160304_16x9_992.jpg",
+        "name": "Alan Partridge",
+        "photo": "http://www.telegraph.co.uk/content/dam/radio/2016/03/18/alanpartridge-xlarge_trans_NvBQzQNjv4BqY1vlWu6X4ClJ13DpyYGHanCugcTyzyB-SXuPVffSvBI.jpg",
         "scores": [
             "5",
             "1",
